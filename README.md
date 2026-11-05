@@ -1,6 +1,6 @@
 # LC-3 ARCHITECTURE VM
 
-How to use : 
+### How to use : 
 
 1. clone the repo   
 ```bash
